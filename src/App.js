@@ -24,6 +24,24 @@ function App() {
           tel='+44 018 57 30'
           email='dualipa@yahoo.com'
         />
+        <Card
+          name="Grimes"
+          img="http://images6.fanpop.com/image/photos/33100000/Grimes-grimes-33199219-386-515.jpg"
+          tel='+05 984 92 48'
+          email='grimes@gmail.com'
+        />
+         <Card
+          name="Charli XCX"
+          img="https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/7/0b/70b57e66-8586-5950-a5ed-703fb70b8b7c/5d16731bb6f58.image.jpg?resize=500%2C500"
+          tel='+08 156 87 24'
+          email='c_xcx@yahoo.com'
+        />
+         <Card
+          name="Doja Cat"
+          img="https://assets.popbuzz.com/2020/08/doja-cat-1582819502-view-1.jpg"
+          tel='+66 735 18 37'
+          email='doja@gmail.com'
+        />
       </div>
     </div>
   );
